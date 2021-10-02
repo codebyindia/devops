@@ -61,7 +61,8 @@
 ## Container
   1. Docker
   2. ContainerD
-  3. rkt
+  3. cri-o
+  4. rkt
 
 ## Container Orchestration 
   1. Kubernetes 
@@ -88,6 +89,12 @@
   3. ELK
   
 ## Observability
+  1. kiali
+  2. 
 ## Security
 ## Security Tools
+  1. terrascan
+  2. gitleak
+  3. talisman
+
 ## SRE culture and standards 
