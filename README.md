@@ -20,10 +20,10 @@
   3. JenkinsX
 
 ## OS
-  1. Linux
-  2. Windows
-  3. MacOS
-  4. Android
+  1. [Linux](#https://www.linux.org)
+  2. [Windows](#https://www.microsoft.com)
+  3. [MacOS](#https://www.apple.com)
+  4. [Android](#https://www.android.com)
 
 ## Networking
 
