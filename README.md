@@ -15,16 +15,16 @@
   4. Spinnaker
 
   ### CICD
-  1. [Jenkins](#https://www.jenkins.io/)
-  2. [Spinnaker](#https://spinnaker.io/)
-  3. [JenkinsX](#https://jenkins-x.io/)
-  4. [Azure pipline](#https://azure.microsoft.com/en-in/services/devops/pipelines/)
+  1. [Jenkins](https://www.jenkins.io/)
+  2. [Spinnaker](https://spinnaker.io/)
+  3. [JenkinsX](https://jenkins-x.io/)
+  4. [Azure pipline](https://azure.microsoft.com/en-in/services/devops/pipelines/)
 
 ## OS
-  1. [Linux](#https://www.linux.org)
-  2. [Windows](#https://www.microsoft.com)
-  3. [MacOS](#https://www.apple.com)
-  4. [Android](#https://www.android.com)
+  1. [Linux](https://www.linux.org)
+  2. [Windows](https://www.microsoft.com)
+  3. [MacOS](https://www.apple.com)
+  4. [Android](https://www.android.com)
 
 ## Networking
 
