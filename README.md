@@ -29,12 +29,12 @@
 ## Networking
 
 ## Cloud
-  1. AWS
-  2. GCP
-  3. Azure
-  4. IBM
-  5. Oracle
-  6. AliCloud
+  1. [AWS](https://aws.amazon.com)
+  2. [GCP](https://cloud.google.com/gcp)
+  3. [Azure](https://portal.azure.com)
+  4. [IBM](https://www.ibm.com)
+  5. [Oracle](https://www.oracle.com )
+  6. [AliCloud](https://in.alibabacloud.com)
 
 ## Database
   ### SQL
