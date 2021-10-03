@@ -2,17 +2,17 @@
 
 ## CICD
   ### CI
-  1. Jenkins
+  1. [Jenkins](https://www.jenkins.io/)
   2. CircleCI
   3. TravisCI
   4. GitlabCI
   5. Github Action
 
   ### CD
-  1. GitOps ArgoCD
-  2. GitOps FluxCD
-  3. Harness
-  4. Spinnaker
+  1. [GitOps ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
+  2. [GitOps FluxCD](https://fluxcd.io/)
+  3. [Harness](https://harness.io/)
+  4. [Spinnaker](https://spinnaker.io/)
 
   ### CICD
   1. [Jenkins](https://www.jenkins.io/)
@@ -109,7 +109,7 @@
   
 ## Observability
   1. kiali
-  2. 
+ 
 ## Security
 ## Security Tools
   1. terrascan
