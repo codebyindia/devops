@@ -15,9 +15,10 @@
   4. Spinnaker
 
   ### CICD
-  1. Jenkins
-  2. Spinnaker
-  3. JenkinsX
+  1. [Jenkins](#https://www.jenkins.io/)
+  2. [Spinnaker](#https://spinnaker.io/)
+  3. [JenkinsX](#https://jenkins-x.io/)
+  4. [Azure pipline](#https://azure.microsoft.com/en-in/services/devops/pipelines/)
 
 ## OS
   1. [Linux](#https://www.linux.org)
