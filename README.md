@@ -36,6 +36,24 @@
   5. Oracle
   6. AliCloud
 
+## Database
+  ### SQL
+  1. [MySQL](https://www.mysql.com/)
+  2. [PostgreSQL](https://www.postgresql.org/)
+  3. [MSSQL](https://www.microsoft.com/en-in/sql-server)
+  4. [MongoDB](https://www.mongodb.com/)
+  5. [OrientDB](https://www.orientdb.org/)
+  6. [MariaDB](https://mariadb.org/)
+  7. [SQLite](https://www.sqlite.org/index.html)
+  8. [CouchDB](https://couchdb.apache.org/)
+  9. [Oracle](https://www.oracle.com/in/database/)
+  10. [DynamoDB](https://aws.amazon.com/dynamodb/)
+  11. [Firebirdsql](https://firebirdsql.org/)
+  12. [CockroachDB](CockroachDB)
+  13. [Cassandra](Cassandra)
+  
+  ### NoSQL
+  
 ## Scripting Language / Automation
    1. Shell
    2. Python
